@@ -2,7 +2,7 @@
 
 My personal portfolio website is a project I created using HTML, CSS, and JavaScript. It consists of three pages: the home page, the about page, and the portfolio page. This website serves as a showcase of my skills, projects, and contact information.
 
-![photo](/images/updated-proj-pic)
+![photo](/images/updated-proj-pic.png)
 
 ## Features
 
