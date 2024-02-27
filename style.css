@@ -197,9 +197,7 @@ footer {
 
 .foot { 
     font-family: 'Lato', sans-serif;
-   
-   
-    /* margin-top: 9px; */
+
 }
 
 .foot-text {  
@@ -244,7 +242,7 @@ footer {
 }
 
 .connect h2{
-    margin-left: 11%;
+    margin-left: 6%;
     margin-bottom: 20px;
 }
 label {    
@@ -258,6 +256,18 @@ label {
 .submit-button{  
     display: block;
     margin-top: 20px;
+    background-color:#1b4c7a ;
+    padding: 5px 10px;
+    border-radius: 10%;
+    color: #d64686;
+    font-weight: bolder;
+    font-size: 18px;
+    letter-spacing: .2mm;
+}
+
+.submit-button:hover {
+    background-color: #d64686;
+    color: #1b4c7a;
 }
 
 /* .connect>h2 {   
@@ -370,8 +380,6 @@ textarea {
         margin-bottom: 10px;
     }
     
-
-
     .home-content h1 {
         
         font-size: 36px;
@@ -445,5 +453,16 @@ textarea {
 label { 
     font-size: 12px;
 }
+
+.submit-button{
+    font-size: 12px;
+    padding: 5px 5px;
+}
+
+.submit-button:active{
+    background-color: #d64686;
+    color: #1b4c7a;
+}
+
 
 }

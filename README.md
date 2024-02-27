@@ -2,7 +2,7 @@
 
 My personal portfolio website is a project I created using HTML, CSS, and JavaScript. It consists of three pages: the home page, the about page, and the portfolio page. This website serves as a showcase of my skills, projects, and contact information.
 
-![photo](/images/project-pic.png)
+![photo](/images/updated-proj-pic)
 
 ## Features
 
@@ -29,14 +29,14 @@ My personal portfolio website is a project I created using HTML, CSS, and JavaSc
 To run this project locally, follow these steps:
 
     1. Clone this repository to your local machine using the following command:
-        - git clone git@github.com:JenniferSimond/personal-portfolio.git
+        `git clone git@github.com:JenniferSimond/personal-portfolio.git`
 
     2. Navigate to the project directory:
-        - cd personal-portfolio
+        `cd personal-portfolio`
 
     3. Open any of the HTML files (index.html, about.html, portfolio.html) in your preferred web browser.
 
-## Live Demo - You can check out a live video demo of this project [here](https://vimeo.com/910540312/a6e91af37d?share=copy).
+## Live Demo - You can check out a live video demo of this project [here](https://vimeo.com/916961515/b53bea527c?share=copy).
 
 ## Author
 
