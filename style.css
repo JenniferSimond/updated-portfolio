@@ -238,12 +238,12 @@ footer {
 }
 
 .connect {  
-    margin-top: 20%;
+    margin-top: 15%;
 }
 
 .connect h2{
     margin-left: 6%;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 label {    
     display: block;
@@ -255,7 +255,7 @@ label {
 
 .submit-button{  
     display: block;
-    margin-top: 20px;
+    margin-top: 15px;
     background-color:#1b4c7a ;
     padding: 5px 10px;
     border-radius: 10%;
